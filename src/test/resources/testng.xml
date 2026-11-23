@@ -1,5 +1,5 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="E2E Test Core">
+<suite name="Selenium E2E">
     <test name="API">
         <packages>
             <package name="io.github.piotrwaligora.e2e.api"/>
