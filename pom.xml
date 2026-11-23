@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.piotrwaligora</groupId>
-    <artifactId>e2e-test-core</artifactId>
+    <artifactId>selenium-e2e</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>E2E Test Core</name>
+    <name>Selenium E2E</name>
     <description>API and UI test automation framework</description>
 
     <properties>
